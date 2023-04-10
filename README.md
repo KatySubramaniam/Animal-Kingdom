@@ -1,1 +1,4 @@
 # Animal-Kingdom
+This assignment will give us practice with defining classes. Set of classes were created with behavior of certain animals. A program were given that runs a simulation of a world with many animals wandering around in it. Different kinds of animals will behave in different ways, and where we were asked to defining those differences. 
+![image](https://user-images.githubusercontent.com/113910062/230880293-b3e8a943-69f1-4e54-a58b-203833c6d9b2.png)
+which is under the supervision of Dr. Hadi Naghavipour. For this individual assignment, a simulator that is workable shall be formed. This assignment is worth 40 marks, which includes presentation with code and explanation, documentation showing object-oriented principles (abstraction, inheritance, encapsulation, and polymorphism), with finally marks for the source code.
